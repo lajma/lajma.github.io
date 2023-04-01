@@ -1,0 +1,38 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .logo {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    margin-left: 60px;
+  }
+  h1, p, h2, h3, label, input {
+    color: rgb(7, 2, 56);
+  }
+  
+  .image-profil {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .ligne-membre {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .info-membre {
+    margin-left: 20px;
+    text-align: left;
+  }
+  
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
